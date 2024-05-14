@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "Codespace for Snake-game-training!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
